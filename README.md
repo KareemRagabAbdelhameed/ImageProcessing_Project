@@ -18,3 +18,11 @@ Future Directions:
 Conclusion:
 
 The Image Processing Using MATLAB project offers a hands-on exploration of fundamental and advanced concepts in digital image processing, providing valuable insights into the capabilities and applications of MATLAB in this field. By implementing and experimenting with a variety of image processing techniques, participants can gain practical experience and develop skills applicable to a wide range of academic and industrial domains.
+
+Team Members :
+
+1. Kareem Ragab Abdelhameed
+2. Abdelrahman Mohammed Sayed
+3. Mohammed Khaled Adly
+4. Ahmed Mostafa AbdelAty
+5. Alaa Saied Hashem
